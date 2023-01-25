@@ -30,12 +30,13 @@ export default function Form() {
             Não tem uma Conta? <a href="/"> Criar agora!</a>
           </span>
         </div>
-      </form>
-      <div className={styles.login_google}>
+        <div className={styles.login_google}>
         <span>Entrar com</span>
 
         <a href="/">Continuar com o google</a>
-      </div>{" "}
+      </div>
+      </form>
+    
     </div>
   );
 }
