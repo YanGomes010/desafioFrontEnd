@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/pigz/static/css/main.664ece7b.css",
-    "main.js": "/pigz/static/js/main.d6bc414e.js",
+    "main.css": "/pigz/static/css/main.a197bf10.css",
+    "main.js": "/pigz/static/js/main.b32852fe.js",
     "static/media/pigz-logotipo-branco.svg": "/pigz/static/media/pigz-logotipo-branco.b682fb05b925d5c1aad49fb8939b2ac5.svg",
+    "static/media/eye_white.svg": "/pigz/static/media/eye_white.a4dcff0e7217daf164fa45fc801f09d7.svg",
     "static/media/logo_googleg_48dp.svg": "/pigz/static/media/logo_googleg_48dp.71d9542edf51a249ec04.svg",
     "index.html": "/pigz/index.html",
+    "static/media/QrCode.svg": "/pigz/static/media/QrCode.f5cd79ed32e54a8d86407f58b13c97ec.svg",
+    "static/media/report.svg": "/pigz/static/media/report.523c302e11c7f35accd3fb31dcf9c37e.svg",
+    "static/media/home.svg": "/pigz/static/media/home.457f88f9355d5aff92ceb92a71cf9186.svg",
+    "static/media/profile.svg": "/pigz/static/media/profile.a17d1b96b4d4f0a908fb86ed41747dca.svg",
     "static/media/eye.svg": "/pigz/static/media/eye.9cdfefa82df97a740ae06525db4d5c89.svg",
-    "main.664ece7b.css.map": "/pigz/static/css/main.664ece7b.css.map",
-    "main.d6bc414e.js.map": "/pigz/static/js/main.d6bc414e.js.map"
+    "static/media/arrow_back_black_24dp.svg": "/pigz/static/media/arrow_back_black_24dp.7ed25644254c6d3e951569d707da25d6.svg",
+    "main.a197bf10.css.map": "/pigz/static/css/main.a197bf10.css.map",
+    "main.b32852fe.js.map": "/pigz/static/js/main.b32852fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.664ece7b.css",
-    "static/js/main.d6bc414e.js"
+    "static/css/main.a197bf10.css",
+    "static/js/main.b32852fe.js"
   ]
 }
