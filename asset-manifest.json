@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pigz/static/css/main.4280656d.css",
+    "main.css": "/pigz/static/css/main.2c0b4523.css",
     "main.js": "/pigz/static/js/main.29b6a412.js",
     "static/media/pigz-logotipo-branco.svg": "/pigz/static/media/pigz-logotipo-branco.b682fb05b925d5c1aad49fb8939b2ac5.svg",
     "static/media/home.svg": "/pigz/static/media/home.302626fce4c7a29038c9ff3e80532e5f.svg",
@@ -12,11 +12,11 @@
     "static/media/profile.svg": "/pigz/static/media/profile.a17d1b96b4d4f0a908fb86ed41747dca.svg",
     "static/media/eye.svg": "/pigz/static/media/eye.9cdfefa82df97a740ae06525db4d5c89.svg",
     "static/media/arrow_back_black_24dp.svg": "/pigz/static/media/arrow_back_black_24dp.7ed25644254c6d3e951569d707da25d6.svg",
-    "main.4280656d.css.map": "/pigz/static/css/main.4280656d.css.map",
+    "main.2c0b4523.css.map": "/pigz/static/css/main.2c0b4523.css.map",
     "main.29b6a412.js.map": "/pigz/static/js/main.29b6a412.js.map"
   },
   "entrypoints": [
-    "static/css/main.4280656d.css",
+    "static/css/main.2c0b4523.css",
     "static/js/main.29b6a412.js"
   ]
 }
