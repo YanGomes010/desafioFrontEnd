@@ -70,14 +70,16 @@
   color: #676767;
   width: 95%;
   padding: 1em;
-  border: 1px solid #9f9f9f;
+  border: 1px solid #ab1b1b;
   border-radius: 15px;
   background-image: url("../../images/logo_googleg_48dp.svg");
   background-repeat: no-repeat;
   background-position-x: 15px;
-  background-position-y: 15px;
+  background-position-y: 12px;
   box-sizing: content-box;
 }
-
+a{
+  text-decoration: none;
+}
 
 
