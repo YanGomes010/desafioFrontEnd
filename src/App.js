@@ -11,8 +11,8 @@ function App() {
       <Router>
             <Routes>
                 <Route exact path="/pigz" element={<LoginPage />} />
-                <Route path="/dashboard" element={<Dashboard />} />
-                <Route path='/delivery' element={<Delivery/>}/>
+                <Route path="/pigz/dashboard" element={<Dashboard />} />
+                <Route path='/pigz/dashboard/delivery' element={<Delivery/>}/>
             </Routes>
 </Router>
      

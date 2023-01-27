@@ -27,7 +27,7 @@ export default function Form() {
           src={ShowPassword}
         />
         <a href="/pigz">Esqueci minha senha</a>
-        <Link to="/dashboard"> <Input  type="submit" value="Entrar" src="" /></Link>
+        <Link to="/pigz/dashboard"> <Input  type="submit" value="Entrar" src="" /></Link>
        
         <div className={styles.container_create_account}>
           <span className={styles.span_account}>
