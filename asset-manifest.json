@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pigz/static/css/main.e6cf7986.css",
+    "main.css": "/pigz/static/css/main.c8a37c92.css",
     "main.js": "/pigz/static/js/main.40134d63.js",
     "static/media/pigz-logotipo-branco.svg": "/pigz/static/media/pigz-logotipo-branco.b682fb05b925d5c1aad49fb8939b2ac5.svg",
     "static/media/eye_hide.svg": "/pigz/static/media/eye_hide.022d0f115d4642106eae0f9f11b3206b.svg",
@@ -17,11 +17,11 @@
     "static/media/eye.svg": "/pigz/static/media/eye.9cdfefa82df97a740ae06525db4d5c89.svg",
     "static/media/arrow_back_black_24dp.svg": "/pigz/static/media/arrow_back_black_24dp.7ed25644254c6d3e951569d707da25d6.svg",
     "static/media/close_black_24dp.svg": "/pigz/static/media/close_black_24dp.f27d989813a24dcb39f26603ae341c89.svg",
-    "main.e6cf7986.css.map": "/pigz/static/css/main.e6cf7986.css.map",
+    "main.c8a37c92.css.map": "/pigz/static/css/main.c8a37c92.css.map",
     "main.40134d63.js.map": "/pigz/static/js/main.40134d63.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6cf7986.css",
+    "static/css/main.c8a37c92.css",
     "static/js/main.40134d63.js"
   ]
 }
