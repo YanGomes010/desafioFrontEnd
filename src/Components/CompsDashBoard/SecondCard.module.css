@@ -10,9 +10,10 @@
 .SecondCard .title{
     width: 100%;
 }
-.SecondCard .title h4,span{
+.SecondCard .title h4,.SecondCard .title span{
     margin-left: 7px;
 }
+
 .SecondCard .boxInput{
     width: 100%;
     display: flex;
