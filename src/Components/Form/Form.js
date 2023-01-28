@@ -40,8 +40,10 @@ const handleToggle=()=>{
           src={icon}
           onClick={handleToggle}
         />
-        <a href="/pigz">Esqueci minha senha</a>
-        <Link to="/pigz/dashboard"> <Input  type="submit" value="Entrar" src="" /></Link>
+        <div className={styles.containerForgot}>
+        <a className={styles.forgot} href="/pigz">Esqueci minha senha</a>
+        </div>
+        <Link style={{textDecoration:"none"}} to="/pigz/dashboard"> <Input  type="submit" value="Entrar" src="" /></Link>
        
         <div className={styles.container_create_account}>
           <span className={styles.span_account}>

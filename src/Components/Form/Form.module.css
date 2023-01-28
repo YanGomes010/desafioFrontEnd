@@ -35,6 +35,12 @@
   text-decoration: none;
   margin-left: 5px;
 }
+form .containerForgot{
+  margin: 15px auto 15px auto;
+}
+form .forgot{
+text-decoration: underline;
+}
 .login_google {
   box-sizing: border-box;
   max-width: 360px;
@@ -77,9 +83,6 @@
   background-position-x: 15px;
   background-position-y: 12px;
   box-sizing: content-box;
-}
-a{
-  text-decoration: none;
 }
 
 
