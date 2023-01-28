@@ -1,7 +1,7 @@
 import logo from "../../images/pigz-logotipo-branco.svg"
 import Form from "../Form/Form"
 import styles from "./Login.module.css"
-
+//@yangomes010, desafio Pigz janeiro 2023
 
 export default function LoginPage(){
     return(

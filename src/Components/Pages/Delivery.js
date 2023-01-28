@@ -8,7 +8,7 @@ import Accept from "../../images/accept.svg"
 import Close from "../../images/close_black_24dp.svg"
 import ButtonDelivery from "../CompsDelivery/ButtonDelivery"
 import Timeline from "../CompsDelivery/TimeLine"
-
+//@yangomes010, desafio Pigz janeiro 2023
 
 export default function Delivery(){
     return(
