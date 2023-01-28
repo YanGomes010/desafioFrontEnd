@@ -4,7 +4,7 @@ export default function ButtonDelivery({src,title,text}){
         <>
         <a className={styles.btn}>
             <div className={styles.boxIMG}>
-            <img src={src}/>
+            <img alt="img" src={src}/>
             </div>
             <div className={styles.boxTexts}>
                 <span>{title}</span>

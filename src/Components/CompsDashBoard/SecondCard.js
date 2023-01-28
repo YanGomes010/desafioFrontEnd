@@ -15,7 +15,7 @@ export default function SecondCard({title}){
             <Input type="text" src=""/>
            <Link to="/pigz/dashboard/delivery"><Button text="OK"/></Link>
         </div>
-        <ButtonQR className={styles.accept} src={QR} text="Escanear QR code"/>
+        <ButtonQR href="/pigz" className={styles.accept} src={QR} text="Escanear QR code"/>
         </div>
         
     )

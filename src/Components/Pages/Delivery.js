@@ -18,8 +18,8 @@ export default function Delivery(){
            <Budget price="R$ 13,75"  textPrice="Valor da Entrega"/>
            <ButtonDelivery src={Motorbike} title="Entrega" text="Percurso Total: 8km"/>
            <Timeline/>
-            <Button  src={Accept} className={styles.accept}  text="Aceitar"/>
-            <Button src={Close} className={styles.close} text="Rejeitar"/>
+            <Button href="/pigz"  src={Accept} className={styles.accept}  text="Aceitar"/>
+            <Button href="/pigz"  src={Close} className={styles.close} text="Rejeitar"/>
         </div>
     )
 }

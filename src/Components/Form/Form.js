@@ -1,12 +1,25 @@
 import styles from "./Form.module.css";
 import Input from "./Input";
 import ShowPassword from "../../images/eye.svg";
+import HidePassword from "../../images/eye_hide.svg"
 import { Link } from "react-router-dom";
-
+import { useState } from "react"
 export default function Form() {
 
+  const [type, setType]= useState("password")
+  const [icon, setIcon]= useState(ShowPassword)
+
+const handleToggle=()=>{
+  if(type==="password"){
+    setType("text")
+    setIcon(HidePassword)
+  }else{
+    setType("password")
+    setIcon(ShowPassword)
+  }
+}
+
   return (
-    
     <div className={styles.container_form}>
       <form>
         <span className={styles.span_title_form}>Login</span>
@@ -23,8 +36,9 @@ export default function Form() {
           name="password"
           id="password_user"
           placeholder="********"
-          type="password"
-          src={ShowPassword}
+          type={type}
+          src={icon}
+          onClick={handleToggle}
         />
         <a href="/pigz">Esqueci minha senha</a>
         <Link to="/pigz/dashboard"> <Input  type="submit" value="Entrar" src="" /></Link>
