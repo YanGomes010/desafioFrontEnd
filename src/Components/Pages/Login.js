@@ -1,4 +1,4 @@
-import logo from "../../images/pigz-logotipo-branco.svg"
+import logo from "../../images/logo.svg"
 import Form from "../Form/Form"
 import styles from "./Login.module.css"
 //@yangomes010, desafio Pigz janeiro 2023

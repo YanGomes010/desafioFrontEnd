@@ -8,7 +8,7 @@ import Styles from "./Dashboard.module.css"
 export default function Dashboard(){
     return(
         <div className={Styles.containerAll}>
-           <Navbar to="../pigz" text="Visão Geral"/>
+           <Navbar to="/" text="Visão Geral"/>
            <Budget/>
            <Card title="Resumo das entregas"/>
            <SecondCard title="Iniciar Nova Entrega"/>

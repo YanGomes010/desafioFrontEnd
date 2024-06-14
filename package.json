@@ -1,5 +1,5 @@
 {
-  "name": "desafiopigz",
+  "name": "desafiofrontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,6 @@
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://YanGomes010.github.io/pigz",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

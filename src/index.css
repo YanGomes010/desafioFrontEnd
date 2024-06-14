@@ -34,3 +34,6 @@ input{
   font-size: 14px;
   box-sizing: content-box;
 }
+a{
+  text-decoration: none;
+}

@@ -41,19 +41,19 @@ const handleToggle=()=>{
           onClick={handleToggle}
         />
         <div className={styles.containerForgot}>
-        <a className={styles.forgot} href="/pigz">Esqueci minha senha</a>
+        <a className={styles.forgot} href="/">Esqueci minha senha</a>
         </div>
-        <Link style={{textDecoration:"none"}} to="/pigz/dashboard"> <Input  type="submit" value="Entrar" src="" /></Link>
+        <Link style={{textDecoration:"none"}} to="/dashboard"> <Input  type="submit" value="Entrar" src="" /></Link>
        
         <div className={styles.container_create_account}>
           <span className={styles.span_account}>
-            Não tem uma Conta? <a href="/pigz"> Criar agora!</a>
+            Não tem uma Conta? <a href="/"> Criar agora!</a>
           </span>
         </div>
         <div className={styles.login_google}>
         <span>Entrar com</span>
 
-        <a href="/pigz">Continuar com o google</a>
+        <a href="/">Continuar com o google</a>
       </div>
       </form>
     

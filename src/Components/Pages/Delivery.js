@@ -13,13 +13,13 @@ import Timeline from "../CompsDelivery/TimeLine"
 export default function Delivery(){
     return(
         <div className={styles.containerAllDelivery}>
-            <Navbar to="/pigz/dashboard" text="Nova entrega"/>
+            <Navbar to="/dashboard" text="Nova entrega"/>
            <DashDelivery text="Tempo Estimado" text_2="Número de ID" time="30 Min" ident="#6789"/>
            <Budget price="R$ 13,75"  textPrice="Valor da Entrega"/>
            <ButtonDelivery src={Motorbike} title="Entrega" text="Percurso Total: 8km"/>
            <Timeline/>
-            <Button href="/pigz"  src={Accept} className={styles.accept}  text="Aceitar"/>
-            <Button href="/pigz"  src={Close} className={styles.close} text="Rejeitar"/>
+            <Button href="/"  src={Accept} className={styles.accept}  text="Aceitar"/>
+            <Button href="/"  src={Close} className={styles.close} text="Rejeitar"/>
         </div>
     )
 }
